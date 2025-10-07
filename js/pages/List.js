@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        You are allowed to bot a level as a showcase, though you cannot bot a level if you are achieving a new best
+                        You are allowed to bot a level as a showcase, though you cannot bot a level if you are submitting a new best or completion of a level
                     </p>
                     <p>
                         The clicks per second limit is 16 per player, this applies even in the dual gamemode where each icon can click 16 times per second
