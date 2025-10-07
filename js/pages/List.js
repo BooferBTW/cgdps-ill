@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        You are allowed to bot a level as a showcase, though you cannot bot a level if you are achieving a new best
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        The clicks per second limit is 16 per player, this applies even in the dual gamemode where each icon can click 16 times per second
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        You are allowed to not have clicks in your completions, though you must upload full raw footage of you playing the level to google drive
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        For level completions or new bests, you must show the previous attempt and the entire endscreen, if you beat a level on the first attempt, then you must show you entering the level
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        For completions and submitting levels, you must show an FPS and CPS counter
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        For completions, you are not allowed to use any secret ways
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        For completions, you cannot use easy modes, only a recording of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Impossible list staff has the final say on all rulings, everything here is subject to change and staff will always have the final say
                     </p>
                 </div>
             </div>
