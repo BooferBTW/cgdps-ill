@@ -103,7 +103,7 @@ export default {
                         You are allowed to bot a level as a showcase, though you cannot bot a level if you are submitting a new best or completion of a level
                     </p>
                     <p>
-                        The clicks per second limit is 16 per player, this applies even in the dual gamemode where each icon can click 16 times per second
+                        The clicks per second limit is 16 per player and 3 clicks per frame, this applies even in the dual gamemode where each icon can click 16 times per second and 3 times per frame
                     </p>
                     <p>
                         You are allowed to not have clicks in your completions, though you must upload full raw footage of you playing the level to google drive
