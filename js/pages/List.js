@@ -99,30 +99,11 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        You are allowed to bot a level as a showcase, though you cannot bot a level if you are submitting a new best or completion of a level
-                    </p>
-                    <p>
-                        The clicks per second limit is 16 per player and 3 clicks per frame, this applies even in the dual gamemode where each icon can click 16 times per second and 3 times per frame
-                    </p>
-                    <p>
-                        You are allowed to not have clicks in your completions, though you must upload full raw footage of you playing the level to google drive
-                    </p>
-                    <p>
-                        For level completions or new bests, you must show the previous attempt and the entire endscreen, if you beat a level on the first attempt, then you must show you entering the level
-                    </p>
-                    <p>
-                        For completions and submitting levels, you must show an FPS and CPS counter
-                    </p>
-                    <p>
-                        For completions, you are not allowed to use any secret ways
-                    </p>
-                    <p>
-                        For completions, you cannot use easy modes, only a recording of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Impossible list staff has the final say on all rulings, everything here is subject to change and staff will always have the final say
-                    </p>
+                   <a href="https://docs.google.com/document/d/1rLfbq4w_QBSGRm7-j5TchKiR0f4bzhB8VVEEGxHhXZs/edit?usp=drivesdk" 
+   target="_blank" 
+   style="color: blue; text-decoration: underline; font-weight: bold;">
+  Rules Documents Here
+</a>
                 </div>
             </div>
         </main>
