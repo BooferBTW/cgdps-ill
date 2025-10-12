@@ -101,7 +101,7 @@ export default {
                     <h3>Submission Requirements</h3>
                    <a href="https://docs.google.com/document/d/1rLfbq4w_QBSGRm7-j5TchKiR0f4bzhB8VVEEGxHhXZs/edit?usp=drivesdk" 
    target="_blank" 
-   style="color: blue; text-decoration: underline; font-family: Arial;">
+   style="color: black; font-family: Arial;">
   Rules Documents Here
 </a>
                 </div>
